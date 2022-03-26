@@ -1,0 +1,21 @@
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Jetbrains
+.idea/*
+
+# Executables
+*.exe
+*.app.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Executables
+*.exe
+*.out
+*.app
